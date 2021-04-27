@@ -9,4 +9,4 @@ interested in: lisps(hy, clojure)
 hobby: drawing, DTM, tanka, speedcube, natural langs
 
 tw: @hand_accident
-(almost tweet wrote in Japanese hard to machine-translate)
+(almost all tweet is written in Japanese hard to machine-translate)
