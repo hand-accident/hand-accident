@@ -1,12 +1,12 @@
-attr: a script kiddy flunked 3 times
+attr: school flunkie / script kiddy
 
 fav lang: haskell
 
-kidded: python(for Photron 2DCAD COM), xlvba
+kidded: python(for Photron 2D-CAD, Rhino, etc), xlvba
 
-interested in: lisps(hy, clojure)
+interested in: Rust
 
 hobby: drawing, DTM, tanka, speedcube, natural langs
 
 tw: @hand_accident
-(almost all tweet is written in Japanese hard to machine-translate)
+(most of tweets is in Japanese hard to machine-translate)
