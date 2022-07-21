@@ -1,10 +1,6 @@
-attr: school flunkie / script kiddy
+a haskell fanboy 
 
-fav lang: haskell
-
-kidded: python(for Photron 2D-CAD, Rhino, etc), xlvba
-
-interested in: Rust
+coding in python and nim
 
 hobby: drawing, DTM, tanka, speedcube, natural langs
 
